@@ -1,0 +1,22 @@
+{
+  "name": "api-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --record --key 9185e15d-810e-402a-a055-34888c17ddef"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaslov-QA/API-Cypress.git"
+  },
+  "author": "aamaslov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amaslov-QA/API-Cypress/issues"
+  },
+  "homepage": "https://github.com/amaslov-QA/API-Cypress#readme",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  }
+}
